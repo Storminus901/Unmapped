@@ -1,0 +1,29 @@
+/* Basic CSS Example */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+
+h1 {
+    position: absolute;
+    top: 20px;
+    left: 850px;
+    color: #ce2121;
+}
+
+p {
+    line-height: 1.6;
+    margin: 10px 20px;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
