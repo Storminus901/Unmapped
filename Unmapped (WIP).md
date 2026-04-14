@@ -64,6 +64,13 @@ Jednoho dne se ale rozhodl vyrazit do lesa, aby tam trávil volný čas a věnov
 
 Když Ioannes bloudil temnými chodbami hradu, zakopl a nějakým zvláštním způsobem propadl dřevěnou podlahou. Najednou se ocitl v bludišti – kamenné zdi, zatuchlý pach, který mu naplnil nos i plíce, ho na chvíli přiměl k nevolnosti, než si na něj zvykl. Zvedl baterku a její světlo odhalilo rozlehlost labyrintu. Nebylo kam jít a nebylo jasné, jak se dostat ven. Sebral odvahu a vydal se dál do chodeb.
 
+**The creatures**
+
+As afformentioned in the description of the game, they each have their own dissabilities.
+
+**1. The watcher**
+This creature says it all in it's name, only watches. This fella doesn't have ears but has pretty darn good eyes and will bring other creatures to the last sightings of you and will continue watching for you and allert the creatures to the last place where you were.
+
 
 
 
