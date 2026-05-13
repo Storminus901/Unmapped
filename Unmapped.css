@@ -1,98 +1,167 @@
-
 /* Reset */
 body {
-  margin-top: 100;
+  margin: 0;
+  min-height: 100vh;
   font-family: Arial, Helvetica, sans-serif;
-  background-color: #4b2624;
+  background-color: #012b09e7;
   color: #e6e6e6;
 }
 
-/* Hlavní kontejner */
 .container {
   max-width: 1100px;
-  margin: auto;
-  background: #1a1f29;
-  padding: 20px;
-  box-shadow: 0 0 20px rgba(0,0,0,0.6);
-}   
+  margin: 40px auto;
+  background: #16171f;
+  padding: 30px;
+  border: 1px solid #2e303a;
+  box-shadow: 0 15px 50px rgba(0, 0, 0, 0.35);
+}
 
-/* Nadpis */
 h1 {
-  font-size: 32px;
-  border-bottom: 2px solid #3c6d66;
-  padding-bottom: 10px;
-  color: #b84040;
+  font-size: 3rem;
+  margin: 0 0 25px;
+  color: #0c721dc2;
+  letter-spacing: 1px;
 }
 
-/* Sekce */
-h2 {
-  margin-top: 30px;
-  border-left: 4px solid #3c6d66;
-  padding-left: 10px;
-  color: #ffffff;
+.hero-row {
+  display: flex;
+  gap: 24px;
+  margin-bottom: 30px;
 }
 
-/* Odkazy */
-a {
-  color: #4db8ff;
-  text-decoration: none;
-}
-a:hover {
-  text-decoration: underline;
-}
-
-/* Infobox (pravý panel jako na Fandomu) */
-.infobox {
-  float: right;
-  width: 280px;
-  background: #11151c;
-  border: 1px solid #2c3440;
-  padding: 15px;
-  margin: 0 0 20px 20px;
+.image-block {
+  flex: 1.2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 320px;
+  background: linear-gradient(135deg, #2a1f28 0%, #7716bd 100%);
+  border: 2px dashed #000000;
+  border-radius: 18px;
+  color: #c3c7d1;
+  font-size: 1.1rem;
+  text-align: center;
 }
 
-.infobox h3 {
-  margin-top: 0;
-  border-bottom: 1px solid #2c3440;
-  padding-bottom: 5px;
-  color: #b84040;
+.character-block {
+  flex: 0.8;
+  background: #1f212b;
+  border: 1px solid #000000;
+  border-radius: 18px;
+  padding: 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  justify-content: flex-start;
 }
 
-.infobox p {
-  margin: 6px 0;
-  font-size: 14px;
+.character-block h2 {
+  margin: 0;
+  font-size: 1.8rem;
+  color: #0c721dc2;
 }
 
-/* Tabulky */
+.character-image {
+  min-height: 280px;
+  background: linear-gradient(135deg, #2e2431 0%, #3e3145 100%);
+  border: 1px solid #4a4f5e;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #c3c7d1;
+  text-align: center;
+  padding: 16px;
+}
+
+.character-image img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  display: block;
+}
+
+.text-card {
+  background: #1f212b;
+  border: 1px solid #343745;
+  border-radius: 18px;
+  padding: 24px;
+  margin-bottom: 30px;
+  font-size: 1.1rem;
+}
+
+.text-card p {
+  line-height: 1.75;
+  margin: 0 0 24px;
+  color: #d7d9e2;
+}
+
+.feature-row {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.feature-box {
+  background: #292c3a;
+  border: 1px solid #3f4458;
+  border-radius: 16px;
+  padding: 18px;
+  min-height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.feature-box h3 {
+  margin: 0;
+  color: #ff0000ad;
+  font-size: 1.9rem;
+
+}
+
+.score-block {
+  background: #1f212b;
+  border: 1px solid #343745;
+  border-radius: 18px;
+  padding: 24px;
+}
+
+.score-block h2 {
+  margin: 0 0 18px;
+  font-size: 1.6rem;
+  color: #8cd6ff;
+}
+
 table {
   width: 100%;
   border-collapse: collapse;
-  margin-top: 15px;
 }
 
-table th, table td {
-  border: 1px solid #2c3440;
-  padding: 8px;
+table th,
+table td {
+  border: 1px solid #2f3344;
+  padding: 14px 12px;
+  text-align: left;
 }
 
 table th {
-  background-color: #3c6d66;
-  color: #000;
+  background: #2e3b53;
+  color: #f7fbff;
 }
 
-/* Box (např. upozornění) */
-.notice {
-  background: #2a2f3a;
-  border-left: 4px solid #3c6d66;
-  padding: 10px;
-  margin: 15px 0;
+table tbody tr:nth-child(even) {
+  background: rgba(255, 255, 255, 0.04);
 }
 
-/* Responsivita */
-@media (max-width: 768px) {
-  .infobox {
-    float: none;
-    width: 100%;
-    margin: 20px 0;
+@media (max-width: 860px) {
+  .feature-row {
+    grid-template-columns: 1fr;
+  }
+
+  .container {
+    margin: 20px;
+    padding: 20px;
   }
 }
