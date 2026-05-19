@@ -53,9 +53,9 @@ core concept:
 
 obash:
 
-**Vz.1** = Unmapped tě vrhne do temného a vlhkého labyrintu bez naděje, jediná věc, kterou dostaneš do kapes, je zapalovač a odhodlání utéct z jakéhokoli pekelného světa, do kterého jsi právě přistál.
+**Vz.1**= Unmapped je školní a skupinový projekt, na kterém jsme začali pracovat kolem poloviny druhého semestru našeho prvního roku v oboru Elektronické počítačové systémy (EP). 
 
-**Vz.2**= Unmapped je školní a skupinový projekt, na kterém jsme začali pracovat kolem poloviny druhého semestru našeho prvního roku v oboru Elektronické počítačové systémy (EP). 
+**Vz.2** = Unmapped tě vrhne do temného a vlhkého labyrintu bez naděje, jediná věc, kterou dostaneš do kapes, je zapalovač a odhodlání utéct z jakéhokoli pekelného světa, do kterého jsi právě přistál.
 
 O hře: 
 
