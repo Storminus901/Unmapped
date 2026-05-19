@@ -1,5 +1,8 @@
 Unmapped (WIP)
 
+(Note from Nam, **read it**)
+Majority of what I wrote is a total disaster is some parts so to whoever new Copy-Writer is reading this, just fix whatever B.S. is and I'll pick up what you put down so fuh idk
+
 Project game python:
 
 idea:
@@ -50,11 +53,13 @@ core concept:
 
 obash:
 
-Unmapped je školní a skupinový projekt, na kterém jsme začali pracovat kolem poloviny druhého semestru našeho prvního roku v oboru Elektronické počítačové systémy (EP). 
+**Vz.1** = Unmapped tě vrhne do temného a vlhkého labyrintu bez naděje, jediná věc, kterou dostaneš do kapes, je zapalovač a odhodlání utéct z jakéhokoli pekelného světa, do kterého jsi právě přistál.
+
+**Vz.2**= Unmapped je školní a skupinový projekt, na kterém jsme začali pracovat kolem poloviny druhého semestru našeho prvního roku v oboru Elektronické počítačové systémy (EP). 
 
 O hře: 
 
-Unmapped je hra z pohledu shora, s boční perspektivou, pixelová hra, která se odehrává v labyrintu, z něhož se musíte dostat. Ale není to jen o tom, že se musíte dostat ven, musíte se také vyhnout tomu, abyste nebyli napadeni (2)**tvory** v labyrintu, **kteří mají své vlastní postižení určitého druhu**, ale stále si musíte uvědomit a pamatovat, že jsou nebezpeční svým způsobem. Nezapomeňte také, že tato hra je časově omezená a váš nejlepší čas se zobrazí na žebříčku na webu, kde budete vyobrazeni.
+(Probal Scrap) Unmapped je hra z pohledu shora, s boční perspektivou, pixelová hra, která se odehrává v labyrintu, z něhož se musíte dostat. Ale není to jen o tom, že se musíte dostat ven, musíte se také vyhnout tomu, abyste nebyli napadeni (2)**tvory** v labyrintu, **kteří mají své vlastní postižení určitého druhu**, ale stále si musíte uvědomit a pamatovat, že jsou nebezpeční svým způsobem. Nezapomeňte také, že tato hra je časově omezená a váš nejlepší čas se zobrazí na žebříčku na webu, kde budete vyobrazeni.
 
 **O postavě**:
 
