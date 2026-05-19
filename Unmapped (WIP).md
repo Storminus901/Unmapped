@@ -1,5 +1,8 @@
 Unmapped (WIP)
 
+(Note from Nam, **read it**)
+Majority of what I wrote is a total disaster is some parts so to whoever new Copy-Writer is reading this, just fix whatever B.S. is and I'll pick up what you put down so fuh idk
+
 Project game python:
 
 idea:
@@ -50,11 +53,13 @@ core concept:
 
 obash:
 
-Unmapped je školní a skupinový projekt, na kterém jsme začali pracovat kolem poloviny druhého semestru našeho prvního roku v oboru Elektronické počítačové systémy (EP). 
+**Vz.1**= Unmapped je školní a skupinový projekt, na kterém jsme začali pracovat kolem poloviny druhého semestru našeho prvního roku v oboru Elektronické počítačové systémy (EP). 
+
+**Vz.2** = Unmapped tě vrhne do temného a vlhkého labyrintu bez naděje, jediná věc, kterou dostaneš do kapes, je zapalovač a odhodlání utéct z jakéhokoli pekelného světa, do kterého jsi právě přistál.
 
 O hře: 
 
-Unmapped je hra z pohledu shora, s boční perspektivou, pixelová hra, která se odehrává v labyrintu, z něhož se musíte dostat. Ale není to jen o tom, že se musíte dostat ven, musíte se také vyhnout tomu, abyste nebyli napadeni (2)**tvory** v labyrintu, **kteří mají své vlastní postižení určitého druhu**, ale stále si musíte uvědomit a pamatovat, že jsou nebezpeční svým způsobem. Nezapomeňte také, že tato hra je časově omezená a váš nejlepší čas se zobrazí na žebříčku na webu, kde budete vyobrazeni.
+(Probal Scrap) Unmapped je hra z pohledu shora, s boční perspektivou, pixelová hra, která se odehrává v labyrintu, z něhož se musíte dostat. Ale není to jen o tom, že se musíte dostat ven, musíte se také vyhnout tomu, abyste nebyli napadeni (2)**tvory** v labyrintu, **kteří mají své vlastní postižení určitého druhu**, ale stále si musíte uvědomit a pamatovat, že jsou nebezpeční svým způsobem. Nezapomeňte také, že tato hra je časově omezená a váš nejlepší čas se zobrazí na žebříčku na webu, kde budete vyobrazeni.
 
 **O postavě**:
 
@@ -63,6 +68,13 @@ Jednoho dne Ioannes seděl doma a věnoval se svým obvyklým, nudným činnoste
 Jednoho dne se ale rozhodl vyrazit do lesa, aby tam trávil volný čas a věnoval se urbexu – svému koníčku, kterému se věnoval v mládí a ke kterému se teď vracel, aby znovu prožil staré časy. Zamířil do opuštěného hradu poblíž městečka, kde vyrůstal, než se odstěhoval. V batohu mu chrastilo staré vybavení z jeho mladších let a baterka mu osvětlovala cestu temným interiérem. V kuželu světla poletovaly prachové částice a jeho fantazie si s nimi pohrávala – připomínaly mu malé duchy.
 
 Když Ioannes bloudil temnými chodbami hradu, zakopl a nějakým zvláštním způsobem propadl dřevěnou podlahou. Najednou se ocitl v bludišti – kamenné zdi, zatuchlý pach, který mu naplnil nos i plíce, ho na chvíli přiměl k nevolnosti, než si na něj zvykl. Zvedl baterku a její světlo odhalilo rozlehlost labyrintu. Nebylo kam jít a nebylo jasné, jak se dostat ven. Sebral odvahu a vydal se dál do chodeb.
+
+**The creatures**
+
+As afformentioned in the description of the game, they each have their own dissabilities.
+
+**1. The watcher**
+This creature says it all in it's name, only watches. This fella doesn't have ears but has pretty darn good eyes and will bring other creatures to the last sightings of you and will continue watching for you and allert the creatures to the last place where you were.
 
 
 
