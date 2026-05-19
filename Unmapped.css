@@ -103,7 +103,7 @@ h1 {
 }
 
 .feature-box {
-  background: #292c3a;
+  background: #09d8252d;
   border: 1px solid #3f4458;
   border-radius: 16px;
   padding: 18px;
@@ -116,7 +116,7 @@ h1 {
 
 .feature-box h3 {
   margin: 0;
-  color: #ff0000ad;
+  color: #34ce2fde;
   font-size: 1.9rem;
 
 }
