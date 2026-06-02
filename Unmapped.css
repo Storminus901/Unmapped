@@ -175,3 +175,53 @@ table tbody tr:nth-child(even) {
     padding: 20px;
   }
 }
+
+/* Styl pro sekci příšer */
+.entity-section {
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #2a1f28; /* Tmavě fialové pozadí */
+  border: 1px solid #4a4f5e;
+  border-radius: 18px;
+  max-width: 800px;
+  font-family: 'Arial', sans-serif;
+  line-height: 1.75;
+  color: #c3c7d1; /* Světle šedý text */
+  box-shadow: 10px 10px #38393d;
+}
+
+.entity-section h2 {
+  text-align: center;
+  color: #ff6f61; /* Oranžový nadpis */
+  margin-bottom: 20px;
+}
+
+.entity-section p {
+  text-indent: 20px;
+  margin-bottom: 15px;
+}
+
+/* Styl pro sekci příběhu hlavní postavy */
+.story-section {
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #1f212b; /* Tmavě šedé pozadí */
+  border: 1px solid #343745;
+  border-radius: 18px;
+  max-width: 800px;
+  font-family: 'Arial', sans-serif;
+  line-height: 1.75;
+  color: #d7d9e2; /* Světle šedý text */
+  box-shadow: 10px 10px #38393d;
+}
+
+.story-section h2 {
+  text-align: center;
+  color: #8cd6ff; /* Světle modrý nadpis */
+  margin-bottom: 20px;
+}
+
+.story-section p {
+  text-indent: 20px;
+  margin-bottom: 15px;
+}
