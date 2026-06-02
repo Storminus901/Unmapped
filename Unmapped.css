@@ -3,7 +3,7 @@ body {
   margin: 0;
   min-height: 100vh;
   font-family: Arial, Helvetica, sans-serif;
-  background-color: #012b09e7;
+  background-color: #3a213a;
   color: #e6e6e6;
 }
 
@@ -41,6 +41,7 @@ h1 {
   color: #c3c7d1;
   font-size: 1.1rem;
   text-align: center;
+  box-shadow: 10px 10px #38393d
 }
 
 .character-block {
@@ -53,6 +54,7 @@ h1 {
   flex-direction: column;
   gap: 18px;
   justify-content: flex-start;
+  box-shadow: 10px 10px #38393d
 }
 
 .character-block h2 {
@@ -88,6 +90,7 @@ h1 {
   padding: 24px;
   margin-bottom: 30px;
   font-size: 1.1rem;
+  box-shadow: 10px 10px #38393d
 }
 
 .text-card p {
@@ -114,6 +117,12 @@ h1 {
   text-align: center;
 }
 
+.feature-box:hover {background-color: #055e102d;}
+
+.feature-box:active{
+  background-color: #055e102d;
+  transform: translateY(4px);
+}
 .feature-box h3 {
   margin: 0;
   color: #34ce2fde;
@@ -126,6 +135,7 @@ h1 {
   border: 1px solid #343745;
   border-radius: 18px;
   padding: 24px;
+  box-shadow: 10px 10px #38393d
 }
 
 .score-block h2 {
